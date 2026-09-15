@@ -1,5 +1,5 @@
 # LED-Matrix-Workshop-for-Raspberry-Pico-2-W
-(for WordClock part only)
+(for WordClock part only)\
 This repo describes only some additional changes to\
 -- automatically login into different WiFi (transportable WordClock for demonstration) \
 -- visualisation of the connection process\
